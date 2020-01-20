@@ -1,2 +1,0 @@
-# voosterveen.github.io
-website
