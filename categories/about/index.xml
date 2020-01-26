@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Personal Page</title>
-    <link>https://voosterveen.github.io/about.html</link>
-    <description>Recent content in Abouts on Personal Page</description>
+    <title>about on Personal Page</title>
+    <link>https://voosterveen.github.io/categories/about.html</link>
+    <description>Recent content in about on Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://voosterveen.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://voosterveen.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://voosterveen.github.io/about/aboutgood.html</link>
+      <link>https://voosterveen.github.io/about.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://voosterveen.github.io/about/aboutgood.html</guid>
+      <guid>https://voosterveen.github.io/about.html</guid>
       <description>During my bachelor in Sociology I discovered my interest for methods and statistics. That is why I started the master programme Methodology and Statistics for the Behavioural, Biomedical and Social Sciences. Within the programme there is the opportunity to enrol in the European Master in Official Statistics, which I did. Currently, I am writing my thesis at Statistics Netherlands (in Dutch: Centraal Bureau voor de Statistiek).
 Next to studying, I am working freelance as a statistics tutor.</description>
     </item>
