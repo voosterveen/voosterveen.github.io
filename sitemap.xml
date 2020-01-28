@@ -3,15 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://voosterveen.github.io/cven.html</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://voosterveen.github.io/about.html</loc>
   </url>
   
   <url>
-    <loc>https://voosterveen.github.io/tags/about.html</loc>
+    <loc>https://voosterveen.github.io/categories/about.html</loc>
   </url>
   
   <url>
-    <loc>https://voosterveen.github.io/categories/about.html</loc>
+    <loc>https://voosterveen.github.io/tags/about.html</loc>
   </url>
   
   <url>
